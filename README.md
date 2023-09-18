@@ -2,6 +2,11 @@
 Library Management
 This is a javascript script for simple library management system
 
+## ER Model
+
+![Capture](https://github.com/benarcetinbilek/librarymanagement/assets/99991013/98de87a5-d356-4d77-a2e0-071d6e759521)
+
+
 ## Features
 
 - Insert books
